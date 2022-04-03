@@ -1,0 +1,17 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  width: 87%;
+  margin: auto;
+}
+.leftnav {
+  display: flex;
+}
+.options {
+  margin-top: 1rem;
+}
+.options a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #f9c80e;
+}

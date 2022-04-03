@@ -1,0 +1,46 @@
+footer {
+    background-color: #292929;
+    color: grey;
+    display: flex;
+    padding: 30px;
+  }
+  footer img {
+    max-width: 30px;
+    height: 30px;
+    margin-top: 20px;
+  }
+  footer input {
+    width: 35em;
+    height: 4em;
+    border-radius: 5px;
+    border: none;
+  }
+  footer button {
+    width: 35em;
+    height: 4em;
+    background-color: #F9C80E;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  .footerLeft {
+    margin-left: 60px;
+  }
+  .address {
+    margin-top: -20px;
+  }
+  .newsletter {
+    margin-left: 200px;
+  }
+  .social {
+    margin-left: 100px;
+  }
+  .social a {
+    color: gray;
+    margin-left: 10px;
+  }
+  .logo{
+      display: flex;
+  }
